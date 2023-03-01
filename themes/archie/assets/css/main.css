@@ -159,7 +159,7 @@ h5::before { color: var(--maincolor); content: '##### '; }
 h6::before { color: var(--maincolor); content: '###### '; }
 
 .meta {
-  color: #999;
+  color: #FA507B;
   letter-spacing: -0.5px;
 }
 
@@ -191,7 +191,8 @@ footer {
 }
 
 time {
-  color: grey;
+  color: #FA507B;
+  font-weight: bold;
 }
 
 /* Posts */

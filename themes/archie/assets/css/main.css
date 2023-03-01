@@ -146,9 +146,9 @@ header .main {
   font-size: 1.5rem;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-size: 1.7rem;
-  margin-top: 2em;
-  line-height: 1.6;
+  font-size: 1.5rem;
+  margin-top: 1.0em;
+  line-height: 1.0;
 }
 
 h1::before { color: var(--maincolor); content: '# '; }

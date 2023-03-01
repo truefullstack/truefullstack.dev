@@ -10,6 +10,7 @@ theme='archie'
     subtitle="learn to be barely adequate at a bunch of things"
     googleAnalytics='G-ZMGRBFNVVS'
     customjs=["js/analytics.js", ]
+    description='An archive of information learned while writing software, managing timelines, teams, and scope. Also a bunch of opinion pieces and hot takes.'
 
 [[params.social]]
 name = "GitHub"

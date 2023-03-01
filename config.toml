@@ -5,7 +5,7 @@ theme='archie'
 
 
 [params]
-    mode="auto"
+    mode="dark"
     useCDN=true
     subtitle="learn to be barely adequate at a bunch of things"
     googleAnalytics='G-ZMGRBFNVVS'

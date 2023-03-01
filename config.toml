@@ -9,6 +9,7 @@ theme='archie'
     useCDN=true
     subtitle="learn to be barely adequate at a bunch of things"
     googleAnalytics='G-ZMGRBFNVVS'
+    customjs=["js/analytics.js", ]
 
 [[params.social]]
 name = "GitHub"

@@ -23,3 +23,4 @@ Absolutely not! See, there are two ways you can take your knowledge base, Breadt
 
 ## Final Thoughts
 There are many different articles about being a Fullstack Developer, one of them is IMHO: The Mythical Fullstack Engineer by Ryland Goldstein. It's an interesting read, from what I understood, it comes from a more corporate angle/meaning of a Fullstack developer. It talks about being able to juggle different tasks and the technologies that come with it. Also how loosely the term Fullstack is defined in each and every organization to fit their needs. I'd suggest you give this a read too to get a gist of another side of the argument.
+

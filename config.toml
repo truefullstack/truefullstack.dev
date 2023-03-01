@@ -8,6 +8,7 @@ theme='archie'
     mode="auto"
     useCDN=true
     subtitle="learn to be barely adequate at a bunch of things"
+    googleAnalytics='G-ZMGRBFNVVS'
 
 [[params.social]]
 name = "GitHub"
@@ -38,3 +39,4 @@ weight = 3
 name = "Tags"
 url = "/tags"
 weight = 4
+

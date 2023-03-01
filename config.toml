@@ -1,4 +1,5 @@
 baseURL='http://localhost:1313/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'truefullstack.dev | learn to be barely adequate at a bunch of things'
 theme='archie'
+

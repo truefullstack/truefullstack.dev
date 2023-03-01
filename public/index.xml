@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>truefullstack.dev</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on truefullstack.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Mar 2023 13:54:56 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who Is a Full Stack Developer</title>
+      <link>http://localhost:1313/posts/who-is-a-full-stack-developer/</link>
+      <pubDate>Wed, 01 Mar 2023 13:54:56 +0530</pubDate>
+      
+      <guid>http://localhost:1313/posts/who-is-a-full-stack-developer/</guid>
+      <description>TLDR: Anyone who is able to take a project from start to finish while keeping an eye on presentation, efficiency, scalability, and security (not particularly in that order) is considered a Fullstack Developer.
+If you&amp;rsquo;re new to this field or have been writing Assembly since the dawn of transistors, you might have heard the term &amp;ldquo;Fullstack Developer&amp;rdquo;. And if you ask around, you&amp;rsquo;ll most likely get as many definitions as there are mouths to talk about this.</description>
+    </item>
+    
+  </channel>
+</rss>

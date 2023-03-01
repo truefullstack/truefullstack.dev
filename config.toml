@@ -1,5 +1,40 @@
 baseURL='http://localhost:1313/'
 languageCode = 'en-us'
-title = 'truefullstack.dev | learn to be barely adequate at a bunch of things'
+title = 'truefullstack.dev'
 theme='archie'
 
+
+[params]
+    mode="auto"
+    useCDN=true
+    subtitle="learn to be barely adequate at a bunch of things"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/truefullstack/"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://github.com/iamllamma/"
+
+[[params.social]]
+name = "Youtube"
+icon = "youtube"
+url = "https://youtube.com/user/truefullstack/"
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
